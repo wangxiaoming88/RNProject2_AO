@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-sound/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61d0bc710b129567e32046225497aeac1f3a051b">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_0637ffd168bf3dae41c66d6015e7d21e69103253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-background-timer/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38020375c4dd574413acaf21f00a4173e72b3998">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_109bf33e284ae647997652aa2445bba98ab0e876.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/projects/adagio/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/vika/projects/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_71e6fc1b76144f56ac760899dcf0f4e70b9f34bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/projects/adagio/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="763c000be595b8bce5a4f387a79d59a48ce2dc57">
+        <dex dex="/Users/vika/projects/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a2238d69fa793232cbd569c2020a404affff9776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/.android/build-cache/33acbb249576f17e4f7f78c4a76c5dc4727f4e1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c161ac76cfb1553ae20be89601e6702caecbf2ef">
+        <dex dex="/Users/vika/projects/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ca113ccf8b75e623e0f7517e81a839dab678096/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/.android/build-cache/33acbb249576f17e4f7f78c4a76c5dc4727f4e1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c161ac76cfb1553ae20be89601e6702caecbf2ef">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_9ca113ccf8b75e623e0f7517e81a839dab678096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/.android/build-cache/86fd5c59def0d2611b9af9aee90d188904308a87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_a0a5c2a594eb30c8069b7421d51413645eb3a7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-signin/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18206d24d7de79f28d22344dee6f29c98de0b3e0">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_5fe3f9a63a9728f5551f6400b4de8d832e244cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-facebook-login/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a5de54f4c8e770dcee5d8a11f7dd337d7b27fb0">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_5c53ed7229fd804853773bb044d2302dbc2b699f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-keep-awake/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25b4747216a57a7164f8e39248ea3a866b856803">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_76bd537c54e82c656599d36328e942bd5c34059a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_dec4027488006fb4f57ec82fec904ef4b6fda442.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df0f6423ab5281e2ea46b5b49ca6e2603e2d9c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6bf83c0c2a49ac810e2aa74482a8fcb42a83e17">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_9b3e53c1013933fe3ba3d261f0e4a082c541bcd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-pdf/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3063f073ed0ff22b4c505fcc90830ab6dedc57e7">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_bd1313392515b6117d7b6364bbfb08348db8f2c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/.android/build-cache/86fd5c59def0d2611b9af9aee90d188904308a87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
+        <dex dex="/Users/vika/projects/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0a5c2a594eb30c8069b7421d51413645eb3a7b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-bcg-timer/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a2bd4115ef1c138208f1ef556105892a1e86b11">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_e1a29b6dbe59b1b7a199e992cebf8844819b86b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-mixpanel/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c6c7e0757a7c54cbeed94de04ff0fc8b5926ae0">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_356b7beb556dd7fdf5815ddc81b8d8872819a83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2aced14eefb27da316c32f20204fc09f02b21e52">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_39f56b0449cea85c5807ccfc3c3241dfcff7d99d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-fabric/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5afd2f59c11bcc8ebd5a1f7a89d43cd8d9a9365">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_90a91b946dc39c8042c5a85e0c11cfc7fe4a9a34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6200c2dab5033fec2cc8cd97c1f172aece7fb5">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_41543a5d0a51b98aa1c900348a474a904b4e3cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f46e3e35b71ec2da03dbe52690cb02cc208a4110">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_cde74f082fe1f6f82c2ab83951c657cb4b3a0887.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_02574b26d456b3883f3b3e0a47dc05119604a83e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8827bea6aa9f8bb3c19e97d430b58dba8f9889b">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_365800b297cc86dcf05798a8e05ad807a073ce56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="841543b0cb82ebcb59e60c73c4514afa57888ca0">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_02574b26d456b3883f3b3e0a47dc05119604a83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/projects/adagio_new/adagio/node_modules/@remobile/react-native-splashscreen/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41b0a578a16998b14585ac67b3da34e6724bcbff">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_faeefae6c0c699bcd02870a20bc9cf76b56300c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/pre-dexed/release/classes_49286516ef1ffa74f5ade88fcffc3ad7feb5854d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8505ca79a0abc3ef116f9c197b7d721ee2453066">
+        <dex dex="/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49286516ef1ffa74f5ade88fcffc3ad7feb5854d/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:1:1-53:12
+	package
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/vika/.android/build-cache/791d6557522d8576e9be025b6aeadae3a1b974ea/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/vika/.android/build-cache/6172fc4ff57811f9de4bf61141c90543d26656ad/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/vika/.android/build-cache/d047bce91e57fe0f0dcb1e789be4254deb647d54/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/vika/.android/build-cache/c1519fa5cd992d8d556e19890585ae5d6294bcd4/output/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/vika/.android/build-cache/ec4e5483d5f65e95678b9b7184c35b91df54f2f1/output/AndroidManifest.xml:25:5-67
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/AndroidManifest.xml:17:5-67
+MERGED from [MusicMonitor:react-native-google-analytics-bridge:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/vika/.android/build-cache/339e57a8052d1dfb09c27996fde128ff76bcbb95/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/vika/.android/build-cache/eabd0c8e45b5a206f063317a697cbfebd444131e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.camera
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:11:5-84
+	android:required
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:11:58-82
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:12:5-94
+	android:required
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:12:68-92
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:12:19-67
+application
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:14:5-51:19
+MERGED from [MusicMonitor:react-native-fetch-blob:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.10.1] /Users/vika/.android/build-cache/97ab074175cb7c0f9429b2c810b39256ce5cd178/output/AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/vika/.android/build-cache/001f2a71f126f1e56701714bfabd4c3a23fbf802/output/AndroidManifest.xml:22:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/vika/.android/build-cache/791d6557522d8576e9be025b6aeadae3a1b974ea/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/vika/.android/build-cache/6172fc4ff57811f9de4bf61141c90543d26656ad/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/vika/.android/build-cache/d047bce91e57fe0f0dcb1e789be4254deb647d54/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/vika/.android/build-cache/c1519fa5cd992d8d556e19890585ae5d6294bcd4/output/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/vika/.android/build-cache/ec4e5483d5f65e95678b9b7184c35b91df54f2f1/output/AndroidManifest.xml:27:5-20
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/AndroidManifest.xml:44:5-124:19
+MERGED from [com.facebook.react:react-native:0.31.0] /Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/vika/.android/build-cache/8e09fa67e2bac9714b0310129e5c66338fdeaf77/output/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/vika/.android/build-cache/1c7ae4431260c059db2c61c3665cab9bc50c5ed3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/vika/.android/build-cache/8c933f6c613a90c9ea73c29293446705b9431fbf/output/AndroidManifest.xml:23:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/vika/.android/build-cache/77e7da99525f2910e32d0de55f72cb06a7b87d4f/output/AndroidManifest.xml:3:3-17
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/vika/.android/build-cache/339e57a8052d1dfb09c27996fde128ff76bcbb95/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/vika/.android/build-cache/334dfaae1b379e6e23d88429c88c0783d3034daa/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/vika/.android/build-cache/eabd0c8e45b5a206f063317a697cbfebd444131e/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/vika/.android/build-cache/8cea14c3799aa4ce5382dc205571f59aea7c6799/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/vika/.android/build-cache/cb9a06ac7a139f0c8ad147205308997e3d3d94ed/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/vika/.android/build-cache/6d594fd4c5b75c366f8ce60749409b0720c2ce3a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/vika/.android/build-cache/dfb0819d658a9f9a136d5aeefce5962991c5b41f/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/vika/.android/build-cache/d9f806742ec132eed5f1d54890180e4d04b6816c/output/AndroidManifest.xml:25:5-20
+	android:screenOrientation
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:19:7-43
+	android:label
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:17:7-39
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/AndroidManifest.xml:44:18-44
+	android:allowBackup
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:16:7-33
+	android:icon
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:theme
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:15:7-62
+activity#org.musopen.musicmonitor.MainActivity
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:21:7-31:16
+	android:screenOrientation
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:24:9-45
+	android:label
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:configChanges
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:22:9-61
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:26:9-30:25
+action#android.intent.action.MAIN
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:28:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:29:6-70
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:29:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:32:5-82
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:32:15-79
+activity#com.facebook.FacebookActivity
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:35:9-40:72
+	android:screenOrientation
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:39:11-47
+	android:label
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:38:11-43
+	android:configChanges
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:37:11-94
+	android:theme
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:40:11-70
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:36:11-55
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:42:9-44:52
+	android:value
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:44:17-50
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:43:17-62
+meta-data#io.fabric.ApiKey
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:45:9-47:71
+	android:value
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:47:13-69
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:46:13-44
+service#org.musopen.musicmonitor.BackgroundService
+ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:48:9-50:39
+	android:exported
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:49:13-70
+uses-sdk
+INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.fresco:animated-base-support:0.11.0] /Users/vika/.android/build-cache/096ebc13a0edcec1cf9e8299088877326fa312c5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:0.11.0] /Users/vika/.android/build-cache/aff79ca49a34b729bc2de0be7b9744c68e0233cf/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:0.11.0] /Users/vika/.android/build-cache/4e2da4b9d14f3b3d2c9b1704321c492c4982481c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:0.11.0] /Users/vika/.android/build-cache/2cdf6bb3038fc82bc8b054a8881aeb10e7edcef2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:0.11.0] /Users/vika/.android/build-cache/aa4c0d65b6901a4af9dce407212e80d2cc6f9965/output/AndroidManifest.xml:5:5-7:41
+MERGED from [MusicMonitor:react-native-fabric:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-fabric/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-mixpanel:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-mixpanel/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-google-signin:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-signin/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-fetch-blob:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-pdf:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-pdf/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.5.1] /Users/vika/.android/build-cache/33acbb249576f17e4f7f78c4a76c5dc4727f4e1c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.5.0] /Users/vika/.android/build-cache/86fd5c59def0d2611b9af9aee90d188904308a87/output/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-sound:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-sound/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-11:41
+MERGED from [MusicMonitor:react-native-background-timer:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-background-timer/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-vector-icons:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-linear-gradient:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-image-picker:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-facebook-login:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-facebook-login/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.10.1] /Users/vika/.android/build-cache/97ab074175cb7c0f9429b2c810b39256ce5cd178/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:23.2.0] /Users/vika/.android/build-cache/001f2a71f126f1e56701714bfabd4c3a23fbf802/output/AndroidManifest.xml:20:5-43
+MERGED from [MusicMonitor:@remobile/react-native-splashscreen:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/@remobile/react-native-splashscreen/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-keep-awake:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-keep-awake/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [MusicMonitor:react-native-bcg-timer:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-bcg-timer/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/vika/.android/build-cache/791d6557522d8576e9be025b6aeadae3a1b974ea/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/vika/.android/build-cache/6172fc4ff57811f9de4bf61141c90543d26656ad/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/vika/.android/build-cache/d047bce91e57fe0f0dcb1e789be4254deb647d54/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/vika/.android/build-cache/c1519fa5cd992d8d556e19890585ae5d6294bcd4/output/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/vika/.android/build-cache/ec4e5483d5f65e95678b9b7184c35b91df54f2f1/output/AndroidManifest.xml:23:5-43
+MERGED from [MusicMonitor:RNMixpanel:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-mixpanel/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/AndroidManifest.xml:11:5-14:42
+MERGED from [MusicMonitor:react-native-google-analytics-bridge:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.31.0] /Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/vika/.android/build-cache/46745ef99e2d1cd2dc2ecc44324cf47203d40d55/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/vika/.android/build-cache/5bbb8b4d6ae713e62c4b1af2a50324bd65cccad9/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/vika/.android/build-cache/a036b7bfc31253670e7a8b8af4b3cfa9f6f35d6d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/vika/.android/build-cache/79f609463819de5771a556cd628851714e1330b1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/vika/.android/build-cache/9412e2670aae661ffedc60c48657062fe67be852/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/vika/.android/build-cache/fb2734dcaa46d25e2ccca37b5239be3a15c2304d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/vika/.android/build-cache/086513e4423379edf05b649cc9b5974745d509ff/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/vika/.android/build-cache/1c7ae4431260c059db2c61c3665cab9bc50c5ed3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/vika/.android/build-cache/8c933f6c613a90c9ea73c29293446705b9431fbf/output/AndroidManifest.xml:21:5-43
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/vika/.android/build-cache/77e7da99525f2910e32d0de55f72cb06a7b87d4f/output/AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/vika/.android/build-cache/339e57a8052d1dfb09c27996fde128ff76bcbb95/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] /Users/vika/.android/build-cache/334dfaae1b379e6e23d88429c88c0783d3034daa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/vika/.android/build-cache/eabd0c8e45b5a206f063317a697cbfebd444131e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /Users/vika/.android/build-cache/df66a3994d29325ca56e10195a44b9837bcc2c11/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/vika/.android/build-cache/8cea14c3799aa4ce5382dc205571f59aea7c6799/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /Users/vika/.android/build-cache/cb9a06ac7a139f0c8ad147205308997e3d3d94ed/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/vika/.android/build-cache/6d594fd4c5b75c366f8ce60749409b0720c2ce3a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/vika/.android/build-cache/dfb0819d658a9f9a136d5aeefce5962991c5b41f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /Users/vika/.android/build-cache/d9f806742ec132eed5f1d54890180e4d04b6816c/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.mixpanel.android:mixpanel-android:4.6.4] /Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/AndroidManifest.xml:14:9-39
+	android:minSdkVersion
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [MusicMonitor:react-native-google-analytics-bridge:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/vika/.android/build-cache/339e57a8052d1dfb09c27996fde128ff76bcbb95/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/vika/.android/build-cache/eabd0c8e45b5a206f063317a697cbfebd444131e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [MusicMonitor:react-native-google-analytics-bridge:unspecified] /Users/vika/projects/adagio_new/adagio/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-native:0.31.0] /Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [com.facebook.react:react-native:0.31.0] /Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:1:1-53:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/vika/projects/adagio_new/adagio/android/app/src/main/AndroidManifest.xml:1:1-53:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/vika/.android/build-cache/339e57a8052d1dfb09c27996fde128ff76bcbb95/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] /Users/vika/.android/build-cache/eabd0c8e45b5a206f063317a697cbfebd444131e/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] /Users/vika/.android/build-cache/339e57a8052d1dfb09c27996fde128ff76bcbb95/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /Users/vika/.android/build-cache/f2fbf913598a3af9fd2cf9066bfd1b85eb97fd91/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/vika/.android/build-cache/8cea14c3799aa4ce5382dc205571f59aea7c6799/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/vika/.android/build-cache/8cea14c3799aa4ce5382dc205571f59aea7c6799/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/vika/.android/build-cache/8cea14c3799aa4ce5382dc205571f59aea7c6799/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/vika/.android/build-cache/8cea14c3799aa4ce5382dc205571f59aea7c6799/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /Users/vika/.android/build-cache/7bcddf2fc29691f9c0923d4532ba22b291d535c1/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /Users/vika/.android/build-cache/74f326bb3049027e3af07abc2cb706f119471285/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /Users/vika/.android/build-cache/3c52502ac05ee472ab76a1284c8af46dd29d51ab/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /Users/vika/.android/build-cache/a405c7ca846839890fe8ef492e88e0bf0ba95692/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/vika/.android/build-cache/dfb0819d658a9f9a136d5aeefce5962991c5b41f/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/vika/.android/build-cache/dfb0819d658a9f9a136d5aeefce5962991c5b41f/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /Users/vika/.android/build-cache/dfb0819d658a9f9a136d5aeefce5962991c5b41f/output/AndroidManifest.xml:20:20-65

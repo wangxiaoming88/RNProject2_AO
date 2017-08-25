@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/com_mixpanel_android_fade_out.xml",
+        "source": "/Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/res/anim/com_mixpanel_android_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/com_mixpanel_android_fade_in.xml",
+        "source": "/Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/res/anim/com_mixpanel_android_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/com_mixpanel_android_slide_down.xml",
+        "source": "/Users/vika/.android/build-cache/cd90eb8ebcfb73570f15162835a95c8f2623baa9/output/res/anim/com_mixpanel_android_slide_down.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/anim/abc_popup_exit.xml"
+    }
+]

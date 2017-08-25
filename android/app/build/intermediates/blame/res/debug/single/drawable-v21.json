@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/vika/.android/build-cache/ede9262360720ba21115487436e692bbf0f357ac/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

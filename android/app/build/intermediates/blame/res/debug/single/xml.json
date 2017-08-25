@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/vika/.android/build-cache/b9738255956834819cea11a652b928d43cae729b/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/vika/projects/adagio_new/adagio/android/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/Users/vika/projects/adagio_new/adagio/android/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    }
+]
